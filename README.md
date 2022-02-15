@@ -7,5 +7,5 @@
 ![Input Instructions](https://github.com/tanmay-pro/Regex--NFA/blob/main/Question.jpeg?raw=true)
 
 ## Run instructions
-`g++ q3.cpp < input file > < output file >`
+`g++ main.cpp < input file > < output file >`
 
